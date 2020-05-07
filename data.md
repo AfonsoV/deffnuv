@@ -7,8 +7,8 @@ The scientific products of this project will be made available here once they ar
 ### Targets
 
 - **Abell S1063** - complete
+Preview image of the FoV.
 ![FIELD IMAGE](assets/images/AS1063.png)
-Preview image.
 
 - **Abell 2744** - scheduled
 - **Abell 370** - scheduled
