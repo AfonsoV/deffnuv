@@ -4,7 +4,7 @@
 
 The scientific products of this project will be made available here once they are ready for wide use by the scientific community.
 
-### Targets
+### Images
 
 - **Abell S1063** - complete
 Preview image of the FoV.
