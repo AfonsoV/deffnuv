@@ -6,7 +6,7 @@ The scientific products of this project will be made available here once they ar
 
 ### Target Images
 
-- **Abell S1063** - complete
+- **Abell S1063** - completed observations. image reduction on-going.
 
 Preview image of the FoV.
 ![FIELD IMAGE](assets/images/AS1063.png)
