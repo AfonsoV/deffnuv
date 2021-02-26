@@ -2,13 +2,13 @@
 
 ## Team
 
-- Anahita Alavi
+- Anahita Alavi (co-PI)
 - Rychard Bouwens
 - Garth Illingworth
 - Daniel Magee
 - Pascal Oesch
 - Ana Paulino-Afonso
-- Bruno Ribeiro (PI)
+- Bruno Ribeiro (co-PI)
 - Brian Siana
 - Renske Smit
 - Eros Vanzella
